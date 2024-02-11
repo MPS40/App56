@@ -1,6 +1,6 @@
 {
     "apiUrl" : "http://blog.iamakintech.com/api/",
-    "pushUpdate" : "on",
-    "newPackage" : "com.lexvontaseries.lexvontamovies",
+    "pushUpdate" : "off",
+    "newPackage" : "",
     "NetworkAds" : "applovin"
 }
